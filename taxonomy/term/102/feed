@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.robshouse.net"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>RobsHouse.net [Arichive] - DrupalCon</title>
+ <link>http://www.robshouse.net/tags/drupalcon</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The DrupalCon Amsterdam Prenote : Drupal Memories (with full video!)</title>
+ <link>http://www.robshouse.net/content/drupalcon-amsterdam-prenote-drupal-memories-full-video</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Rob, Jam, and guests tell the history of DrupalCon, from Antwerp to Amsterdam, from the point of view of those whose lives were changed by them. This video includes &quot;Oh, and one time, at Drupal Camp&quot;, &quot;The Drupal 8 Bug Elimination Challenge&quot;, a guest appearance by Captain Drupal, a performance of &quot;The Drupal Song&quot;, a re-enactment of the genesis of Acquia, a &quot;Never Marry Me&quot; proposal, and a stunning performance of &quot;Memories&quot; by Bryn and Campbell Vertesi.&lt;/p&gt;
+&lt;p&gt;It also concludes with the inaugural instance of &quot;Selfieception&quot;, the culmination of the underlying metaphor behind this show. Inspired by &lt;a href=&quot;http://mentalfloss.com/article/24110/ted-talk-we-think-our-future-anticipated-memories&quot; title=&quot;Link to article with the TED Talk video&quot;&gt;Daniel Kahneman&#039;s TED Talk&lt;/a&gt; about &quot;the future as anticipated memories&quot;, Rob and Jam set about to create a show that ties our collective experience to &quot;the experiencing self that lives in the present, the remembering self that maintains the story of your life&quot;, and to use  &quot;storytelling as a function of what we remember from our experiences&quot;. &lt;/p&gt;
+&lt;p&gt;As we tell the stories of our DrupalCons, and how they defined us (remembering self), we engage in a dialog with the audience, who has to pay close attention to capture every moment (experiencing self), as indeed we&#039;ll have to do through the coming days of sessions, meetings, chance encounters, and business opportunities. But in a tip-of-the-hat to our remembering selves, we decide to take selfies to remember the moment by. However, to frame the shot in an optimal way, we must all turn our backs on each other, and thus the conflict between experiencing self and remembering self is embodied: the remembering self demands that the experiencing self sacrifices the performer-audience dialog, and turns the back to the present in anticipation of a future memory.&lt;/p&gt;
+&lt;p&gt;Thanks to the Drupal Association for supporting our ongoing tradition of the DrupalCon Prenote, thanks to the 1,500 people who got out of bed to be at our show at 8:00 in the morning, and thanks to everyone who stood up to tell their story.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;//www.youtube.com/embed/Oy4Gofq4H3g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupalcon&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;DrupalCon&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/selfieception&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Selfieception&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 05 Oct 2014 21:28:24 +0000</pubDate>
+ <dc:creator>Robert Douglass</dc:creator>
+ <guid isPermaLink="false">299 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>The Drupal 8 Bug Elimination Challenge</title>
+ <link>http://www.robshouse.net/content/drupal-8-bug-elimination-challenge</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;In the style of the ALS Ice Bucket challenge, we&#039;ll lick those bugs, one at a time! The three people I nominate to also take the challenge are Tom Erickson, Dries Buytaert, and Josh Koenig. You&#039;ve got 24 hours!&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/eCuQevzQr4c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Prior to the DrupalCon Amsterdam Prenote (where this video was shown), I had captured a few reactions from some of my friends (a sort of market testing, if you will).&lt;/p&gt;
+&lt;p&gt;Jam and friends react.&lt;/p&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/H4Cw09UNX2Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;Shannon reacts.&lt;/p&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/NLRxXoGV_Zk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;Mike reacts.&lt;/p&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/XCFZNv5Kq0s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupalcon&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;DrupalCon&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 01 Oct 2014 05:31:02 +0000</pubDate>
+ <dc:creator>Robert Douglass</dc:creator>
+ <guid isPermaLink="false">298 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>Drupal Coder vs Themer: The ultimate DrupalCon trailer?</title>
+ <link>http://www.robshouse.net/content/drupal-coder-vs-themer-ultimate-drupalcon-trailer</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Campbell Vertesi and Adam Juran are at the top of their game when it comes to coding and theming Drupal. They&#039;re also deeply involved in and shaped by their study of martial arts. That&#039;s what makes &lt;a href=&quot;https://www.youtube.com/watch?v=gRhLHBxYg-0&quot; title=&quot;Link to the YouTube video&quot;&gt;this DrupalCon trailer so very good&lt;/a&gt;: they make an analogy for working with Drupal that pits the coder vs the themer, and it becomes the basis of their whole DrupalCon session. This trailer (which is meant to get &lt;a href=&quot;https://amsterdam2014.drupal.org/session/coder-vs-themer-ultimate-grudge-smackdown-fight-death&quot; title=&quot;Coder vs Themer session&quot;&gt;butts into seats next week in Amsterdam&lt;/a&gt;), is a tribute to B-grade Kung Fu movies, and is true to Drupal&#039;s tradition of approaching technology with a good dose of levity and humor. I, for one, really enjoyed working with Campbell and Adam while shooting this, and am looking forward to their session.&lt;/p&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/gRhLHBxYg-0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupalcon&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;DrupalCon&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 24 Sep 2014 14:43:56 +0000</pubDate>
+ <dc:creator>Robert Douglass</dc:creator>
+ <guid isPermaLink="false">297 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>How did DrupalCon change your life?</title>
+ <link>http://www.robshouse.net/content/how-did-drupalcon-change-your-life</link>
+ <description>&lt;div class=&quot;field field-name-field-body field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;
+	DrupalCon is the heart and soul of the Drupal Community. Thousands of us have attended over the past 9 years. Many of us, myself included, have had life-changing experiences at DrupalCon. How did DrupalCon change your life? Now is the time to share your story with thousands of your closest friends! ... or the Drupal community.
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.robshouse.net/sites/default/files/drupalcon-changed-my-life-600x273_0.png&quot; alt=&quot;Collage of DrupalCon related pictures&quot; width=&quot;600&quot; height=&quot;273&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;What is this for?&lt;/strong&gt; It&#039;s for the &lt;a href=&quot;http://amsterdam2014.drupal.org/prenote&quot;&gt;&quot;Prenote&quot; session&lt;/a&gt;&lt;a&gt; at DrupalCon Amsterdam. &lt;/a&gt;&lt;a href=&quot;http://www.youtube.com/playlist?list=PLjVW3kqu-3e_Q41ETbML6RfbRssEdVvC4&quot;&gt;Every DrupalCon&lt;/a&gt;, Jam and I collaborate to show some aspect of the Drupal experience through humor, drama, song, cheesy costumes, and famous Drupal guest stars. We&#039;d like to include some of these stories in Amsterdam!
+&lt;/p&gt;
+&lt;p&gt;
+	Thanks for sharing!
+&lt;/p&gt;
+&lt;!--break--&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;form class=&quot;webform-client-form webform-client-form-296&quot; action=&quot;/taxonomy/term/102/feed&quot; method=&quot;post&quot; id=&quot;webform-client-form-296&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div  class=&quot;form-item webform-component webform-component-textfield webform-component--your-name&quot;&gt;
+  &lt;label for=&quot;edit-submitted-your-name&quot;&gt;Your name &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input required=&quot;required&quot; type=&quot;text&quot; id=&quot;edit-submitted-your-name&quot; name=&quot;submitted[your_name]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-radios webform-component--which-drupalcon&quot;&gt;
+  &lt;label for=&quot;edit-submitted-which-drupalcon&quot;&gt;Which DrupalCon? &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;div id=&quot;edit-submitted-which-drupalcon&quot; class=&quot;form-radios&quot;&gt;&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-1&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;1&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-1&quot;&gt;Austin, 2014 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-2&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;2&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-2&quot;&gt;Prague,	2013 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-3&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;3&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-3&quot;&gt;Portland, 2013 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-4&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;4&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-4&quot;&gt;Sydney, 2013 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-5&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;5&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-5&quot;&gt;Munich, 2012 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-6&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;6&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-6&quot;&gt;Denver, 2012 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-7&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;7&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-7&quot;&gt;London, 2011 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-8&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;8&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-8&quot;&gt;Chicago, 2011 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-9&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;9&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-9&quot;&gt;Copenhagen, 2010 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-10&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;10&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-10&quot;&gt;San Francisco, 2010 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-11&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;11&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-11&quot;&gt;Paris, 2009 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-12&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;12&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-12&quot;&gt;Washington, D.C., 2009 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-13&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;13&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-13&quot;&gt;Szeged, 2008 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-14&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;14&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-14&quot;&gt;Boston, 2008 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-15&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;15&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-15&quot;&gt;Barcelona, 2007 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-16&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;16&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-16&quot;&gt;Sunnyvale, 2007 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-17&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;17&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-17&quot;&gt;Brussels, 2006 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-18&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;18&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-18&quot;&gt;Vancouver, 2006 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-19&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;19&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-19&quot;&gt;Amsterdam, 2005 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-20&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;20&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-20&quot;&gt;Portland, 2005 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-which-drupalcon&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-which-drupalcon-21&quot; name=&quot;submitted[which_drupalcon]&quot; value=&quot;21&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-which-drupalcon-21&quot;&gt;Antwerp, 2005 &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+ &lt;div class=&quot;description&quot;&gt;Which DrupalCon changed your life?&lt;/div&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-textarea webform-component--tell-your-story&quot;&gt;
+  &lt;label for=&quot;edit-submitted-tell-your-story&quot;&gt;Tell your story &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;div class=&quot;form-textarea-wrapper resizable&quot;&gt;&lt;textarea required=&quot;required&quot; id=&quot;edit-submitted-tell-your-story&quot; name=&quot;submitted[tell_your_story]&quot; cols=&quot;60&quot; rows=&quot;5&quot; class=&quot;form-textarea required&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+ &lt;div class=&quot;description&quot;&gt;What happened that changed your life? Was it meeting a specific person? Attending a session? Being in the right place at the right time?
+
+What aspect of your life now would not have been the same if you hadn&#039;t attended DruaplCon.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-radios webform-component--will-you-be-attending-drupalcon-amsterdam&quot;&gt;
+  &lt;label for=&quot;edit-submitted-will-you-be-attending-drupalcon-amsterdam&quot;&gt;Will you be attending DrupalCon Amsterdam? &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;div id=&quot;edit-submitted-will-you-be-attending-drupalcon-amsterdam&quot; class=&quot;form-radios&quot;&gt;&lt;div class=&quot;form-item form-type-radio form-item-submitted-will-you-be-attending-drupalcon-amsterdam&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-will-you-be-attending-drupalcon-amsterdam-1&quot; name=&quot;submitted[will_you_be_attending_drupalcon_amsterdam]&quot; value=&quot;1&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-will-you-be-attending-drupalcon-amsterdam-1&quot;&gt;Yes &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-radio form-item-submitted-will-you-be-attending-drupalcon-amsterdam&quot;&gt;
+ &lt;input required=&quot;required&quot; type=&quot;radio&quot; id=&quot;edit-submitted-will-you-be-attending-drupalcon-amsterdam-2&quot; name=&quot;submitted[will_you_be_attending_drupalcon_amsterdam]&quot; value=&quot;2&quot; class=&quot;form-radio&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-will-you-be-attending-drupalcon-amsterdam-2&quot;&gt;No &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-email webform-component--e-mail&quot;&gt;
+  &lt;label for=&quot;edit-submitted-e-mail&quot;&gt;E-mail &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input required=&quot;required&quot; class=&quot;email form-text form-email required&quot; type=&quot;email&quot; id=&quot;edit-submitted-e-mail&quot; name=&quot;submitted[e_mail]&quot; size=&quot;60&quot; /&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-textfield webform-component--skype-or-phone&quot;&gt;
+  &lt;label for=&quot;edit-submitted-skype-or-phone&quot;&gt;Skype or phone &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-skype-or-phone&quot; name=&quot;submitted[skype_or_phone]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+ &lt;div class=&quot;description&quot;&gt;How can we contact you? What&#039;s your Skype ID or phone number?&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-X3QQJXnSS-m_ffuYbNmtXMqLSqhAJr3LunICZ3Sh41E&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_296&quot; /&gt;
+&lt;div class=&quot;form-actions&quot;&gt;&lt;input class=&quot;webform-submit button-primary form-submit&quot; type=&quot;submit&quot; name=&quot;op&quot; value=&quot;Submit&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Sat, 06 Sep 2014 16:54:09 +0000</pubDate>
+ <dc:creator>Robert Douglass</dc:creator>
+ <guid isPermaLink="false">296 at http://www.robshouse.net</guid>
+</item>
+</channel>
+</rss>

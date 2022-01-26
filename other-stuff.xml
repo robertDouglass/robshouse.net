@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.robshouse.net/other-stuff" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Other stuff</title>
+    <link>http://www.robshouse.net/other-stuff</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.robshouse.net/other-stuff.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Robert Douglass, Horn Player: The Archive</title>
+    <link>http://www.robshouse.net/content/robert-douglass-horn-player-archive</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is an archive of all of the important extant performances from my time as a horn player prior to moving to Germany. I am very happy to have them. They remind me both how beautiful and amazing the music is, and also how damned hard the art is. Thank you to all the musicians on these recordings who played with me. I loved this part of my life dearly, and as such I love you.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 06 Mar 2015 00:47:49 +0000</pubDate>
+ <dc:creator>Robert Douglass</dc:creator>
+ <guid isPermaLink="false">304 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>Orchestration, Code, Deployment, Infrastructure</title>
+    <link>http://www.robshouse.net/content/orchestration-code-deployment-infrastructure</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Managing code is a solved problem. Git plus Github are everything we need and more. Docker and LXC containers, plus Ansible, Puppet, Chef, on IaaS like AWS, Google Cloud, and Azure provide previously unimaginable possibles for deploying services onto consistent infrastructure. Yet no web application is really whole without data, and, in fact the code, data, and infrastructure all need to fit together in exactly the right way, or you don&#039;t have an application, you have an unholy mess.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 Jan 2015 10:43:48 +0000</pubDate>
+ <dc:creator>Robert Douglass</dc:creator>
+ <guid isPermaLink="false">303 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>Robert Douglass takes the ALS Ice Bucket Challenge in Köln</title>
+    <link>http://www.robshouse.net/content/robert-douglass-takes-als-ice-bucket-challenge-k%C3%B6ln</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1IS0j1qp-9g&quot;&gt;Baris Wanschers called me out&lt;/a&gt;, and here it is, my &lt;a href=&quot;https://en.wikipedia.org/wiki/Ice_Bucket_Challenge&quot;&gt;ALS Ice Bucket Challenge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you to the Drupal Community for 10 years of prosperity: I hope you take this challenge too, and find it in your heart to &lt;a href=&quot;http://www.alsa.org/fight-als/ice-bucket-challenge.html&quot;&gt;give to ALSA.org&lt;/a&gt; or a charitable organizations of your choice.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 25 Aug 2014 18:23:31 +0000</pubDate>
+ <dc:creator>Robert Douglass</dc:creator>
+ <guid isPermaLink="false">293 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>I want to show you a photograph</title>
+    <link>http://www.robshouse.net/content/i-want-show-you-photograph</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&quot;I want to show you a photograph.&quot; &lt;/p&gt;
+&lt;p&gt;She got her glasses, sat down next to me.&lt;/p&gt;
+&lt;p&gt;&quot;This is what great photography looks like.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;Why?&quot; she asked, after a pause.&lt;/p&gt;
+&lt;p&gt;&quot;Well, look at it. The lonliness. The disconnection. The only connection between them is the unbearable weight they&#039;re carrying inside of them.&quot;&lt;/p&gt;
+&lt;p&gt;A longer pause. I continue: &quot;In a moment they&#039;ll have disappeared, slipped out of view, into the mist, never to be seen again. This photo, where you see so little, says so much.&quot;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 22 Apr 2014 23:50:36 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">281 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>YouTube Data API v3 : How to get $DEVELOPER_KEY </title>
+    <link>http://www.robshouse.net/content/youtube-data-api-v3-how-get-developerkey</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;In the PHP example code for Google&#039;s YouTube Data API v3 there is a variable that calls for a developer key. Without this key the example code won&#039;t work, but getting that key is not obvious due to recent changes in the cloud console interface. Here&#039;s how you get it.&lt;/p&gt;
+&lt;p&gt;First, the name of the key that you&#039;re looking for isn&#039;t &quot;developer key&quot; anymore, it&#039;s an &quot;API key&quot; for &quot;Public Access&quot;. This is opposed to the OAuth credentials. If you want to do something that requires authenticated access, you&#039;ll need the OAuth credentials. For searching and listing videos, you don&#039;t.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 25 Dec 2013 22:43:13 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">276 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>My contribution to the DrupalCon opening session</title>
+    <link>http://www.robshouse.net/content/my-contribution-drupalcon-opening-session</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I wasn&#039;t in Prague on the first day of DrupalCon, but that didn&#039;t stop me from contributing to the opening session. Here is the &quot;song&quot; that I &quot;sang&quot;, with all of the lyrics. Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;//www.youtube.com/embed/MkUI_euqeuk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 29 Sep 2013 13:48:49 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">261 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>Commerce Kickstart available on Pantheon</title>
+    <link>http://www.robshouse.net/content/commerce-kickstart-available-pantheon</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;Pantheon is a great company with great product. They make hosting Drupal sites easy, and you can try out their service for free. I&#039;ve enjoyed watching their company grow, and they make great contributions to Drupal overall. &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;http://commerceguys.com&quot;&gt;Commerce Guys&lt;/a&gt; is a great company with a great product. We make getting started selling online with Drupal a breeze, and I&#039;ve had a blast being part of the products team responsible for Commerce Kickstart.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/commerce-guys&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Commerce Guys&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 31 May 2013 17:45:56 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">226 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>Mother and daughter with cancer at the same time - family of six in need</title>
+    <link>http://www.robshouse.net/content/mother-and-daughter-cancer-same-time-family-six-need</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;My cousin and her eldest daughter were both diagnosed with cancer. Their medical bills have skyrocketed to $60,000 that they still have to pay. They&#039;re a family of 8, and they need help. If you can find it in your hearts (and wallets) to give, please do.&lt;/p&gt;
+&lt;div style=&quot;width:240px;text-align:center&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.giveforward.com/widget.js&quot;&gt;
+&lt;!--//--&gt;&lt;![CDATA[// &gt;&lt;!--
+
+
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--//--&gt;&lt;![CDATA[// &gt;&lt;!--
+
+   BuildWidget(&#039;nc82&#039;);
+
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/cancer&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;cancer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 02 May 2013 08:26:15 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">216 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>Easter, hospitals, and the bombing of Olpe</title>
+    <link>http://www.robshouse.net/content/easter-hospitals-and-bombing-olpe</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 29 Mar 2013 08:28:49 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">211 at http://www.robshouse.net</guid>
+  </item>
+  <item>
+    <title>Kimiko at the German championships for weight lifting</title>
+    <link>http://www.robshouse.net/blog-post/kimiko-german-championships-weight-lifting</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;She placed 5th out of 9 in the up-to 63Kg weight class with a total of 130Kg in the two disciplines (55Kg snatch, 75Kg clean/jerk).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/kimiko-ishizaka&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Kimiko Ishizaka&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 26 Oct 2009 12:45:31 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">71 at http://www.robshouse.net</guid>
+  </item>
+  </channel>
+</rss>
