@@ -1,5 +1,7 @@
 # Robshouse.net
 
+[![Deploy to GitHub Pages](https://github.com/[username]/robshouse.net/actions/workflows/deploy.yml/badge.svg)](https://github.com/[username]/robshouse.net/actions/workflows/deploy.yml)
+
 This repository contains the static HTML files for [robshouse.net](https://robshouse.net), Robert Douglass's personal website.
 
 ## Deployment
