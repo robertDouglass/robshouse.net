@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.robshouse.net"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>robertDouglass&#039;s blog</title>
+ <link>http://www.robshouse.net/blogs/robertdouglass</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Bach&#039;s Goldberg Variations, complete with score</title>
+ <link>http://www.robshouse.net/content/bachs-goldberg-variations-complete-score</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Here is a &lt;a href=&quot;https://www.youtube.com/watch?v=Tkd5uY5k63w&amp;amp;list=PLGXthnFPaq19MGg8cvnEWK3lqU2WsfXRI&quot;&gt;YouTube playlist&lt;/a&gt; with the entire recording of &lt;a href=&quot;http://www.opengoldbergvariations.org&quot;&gt;Bach&#039;s Goldberg Variations, performed by Kimiko Ishizaka&lt;/a&gt;, with the musical score, following along note-by-note. I made these videos by recording the video from &lt;a href=&quot;https://itunes.apple.com/us/app/open-goldberg-variations/id529060306?mt=8&quot;&gt;MuseScore&#039;s Open Goldberg Variations iPad app&lt;/a&gt;, and then replacing the audio with the CD quality recording from the Open Goldberg Variations CD. Enjoy.&lt;/p&gt;
+&lt;p&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/videoseries?list=PLGXthnFPaq19MGg8cvnEWK3lqU2WsfXRI&quot; width=&quot;640&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;!--break--&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/music&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 25 May 2014 16:08:26 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">286 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>I want to show you a photograph</title>
+ <link>http://www.robshouse.net/content/i-want-show-you-photograph</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&quot;I want to show you a photograph.&quot; &lt;/p&gt;
+&lt;p&gt;She got her glasses, sat down next to me.&lt;/p&gt;
+&lt;p&gt;&quot;This is what great photography looks like.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;Why?&quot; she asked, after a pause.&lt;/p&gt;
+&lt;p&gt;&quot;Well, look at it. The lonliness. The disconnection. The only connection between them is the unbearable weight they&#039;re carrying inside of them.&quot;&lt;/p&gt;
+&lt;p&gt;A longer pause. I continue: &quot;In a moment they&#039;ll have disappeared, slipped out of view, into the mist, never to be seen again. This photo, where you see so little, says so much.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;I just can&#039;t do that,&quot; she said, &quot;seeing such a big story. I see Gorbachev, Carry Grant, and Sherlock Holmes. That&#039;s all!&quot;&lt;/p&gt;
+&lt;p&gt;[[{&quot;type&quot;:&quot;media&quot;,&quot;view_mode&quot;:&quot;media_crop&quot;,&quot;fid&quot;:&quot;231&quot;,&quot;attributes&quot;:{&quot;alt&quot;:&quot;&quot;,&quot;class&quot;:&quot;media-image&quot;,&quot;id&quot;:&quot;media_crop_722897050436&quot;,&quot;media_crop_h&quot;:&quot;0&quot;,&quot;media_crop_image_style&quot;:&quot;large&quot;,&quot;media_crop_instance&quot;:&quot;96&quot;,&quot;media_crop_rotate&quot;:&quot;0&quot;,&quot;media_crop_scale_h&quot;:&quot;0&quot;,&quot;media_crop_scale_w&quot;:&quot;0&quot;,&quot;media_crop_w&quot;:&quot;0&quot;,&quot;media_crop_x&quot;:&quot;0&quot;,&quot;media_crop_y&quot;:&quot;0&quot;,&quot;typeof&quot;:&quot;foaf:Image&quot;}}]]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;Three Men&quot; - by Steve Shapiro&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Apr 2014 23:50:36 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">281 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>YouTube Data API v3 : How to get $DEVELOPER_KEY </title>
+ <link>http://www.robshouse.net/content/youtube-data-api-v3-how-get-developerkey</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;In the PHP example code for Google&#039;s YouTube Data API v3 there is a variable that calls for a developer key. Without this key the example code won&#039;t work, but getting that key is not obvious due to recent changes in the cloud console interface. Here&#039;s how you get it.&lt;/p&gt;
+&lt;p&gt;First, the name of the key that you&#039;re looking for isn&#039;t &quot;developer key&quot; anymore, it&#039;s an &quot;API key&quot; for &quot;Public Access&quot;. This is opposed to the OAuth credentials. If you want to do something that requires authenticated access, you&#039;ll need the OAuth credentials. For searching and listing videos, you don&#039;t.&lt;/p&gt;
+&lt;p&gt;In the Google cloud console, to to &lt;a href=&quot;https://cloud.google.com/console&quot;&gt;APIs &amp;amp; auth &amp;gt; Credentials&lt;/a&gt;. In the &quot;Public API Access&quot; section, click &quot;CREATE NEW KEY&quot;. This is what it should look like:&lt;/p&gt;
+&lt;p&gt;[[{&quot;type&quot;:&quot;media&quot;,&quot;view_mode&quot;:&quot;media_crop&quot;,&quot;fid&quot;:&quot;226&quot;,&quot;attributes&quot;:{&quot;alt&quot;:&quot;&quot;,&quot;class&quot;:&quot;media-image&quot;,&quot;id&quot;:&quot;media_crop_8028238657861&quot;,&quot;media_crop_h&quot;:&quot;0&quot;,&quot;media_crop_image_style&quot;:&quot;600-wide&quot;,&quot;media_crop_instance&quot;:&quot;91&quot;,&quot;media_crop_rotate&quot;:&quot;0&quot;,&quot;media_crop_scale_h&quot;:&quot;0&quot;,&quot;media_crop_scale_w&quot;:&quot;0&quot;,&quot;media_crop_w&quot;:&quot;0&quot;,&quot;media_crop_x&quot;:&quot;0&quot;,&quot;media_crop_y&quot;:&quot;0&quot;,&quot;typeof&quot;:&quot;foaf:Image&quot;}}]]&lt;/p&gt;
+&lt;p&gt;For the &quot;Edit allowed IPs&quot;, I used Google to &lt;a href=&quot;http://goo.gl/jLrF9Y&quot;&gt;find my public IP address&lt;/a&gt; since I&#039;m developing locally and get a new IP from my ISP. When I deploy this onto the web I&#039;ll have to update the allowed IPs.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 25 Dec 2013 22:43:13 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">276 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>Kimiko Ishizaka plays Bach at the Manifold Recording Studio</title>
+ <link>http://www.robshouse.net/content/kimiko-ishizaka-plays-bach-manifold-recording-studio</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;480&quot; src=&quot;//www.youtube.com/embed/Zj6wMOySPYQ&quot; width=&quot;853&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;div class=&quot;Ct&quot;&gt;1. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=0m28s&quot; rel=&quot;nofollow&quot;&gt;0:28&lt;/a&gt; Prelude in C-Major BWV 846&lt;br /&gt;
+	2. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=2m47s&quot; rel=&quot;nofollow&quot;&gt;2:47&lt;/a&gt; Fugue in C-Major BWV 846&lt;br /&gt;
+	3. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=4m38s&quot; rel=&quot;nofollow&quot;&gt;4:38&lt;/a&gt; Prelude in C-Minor BWV 847&lt;br /&gt;
+	4. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=6m30s&quot; rel=&quot;nofollow&quot;&gt;6:30&lt;/a&gt; Fugue in C-Minor BWV 847&lt;br /&gt;
+	5. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=8m24s&quot; rel=&quot;nofollow&quot;&gt;8:24&lt;/a&gt; Prelude in C#-Major BWV 848&lt;br /&gt;
+	6. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=9m37s&quot; rel=&quot;nofollow&quot;&gt;9:37&lt;/a&gt; Fugue in C#-Major BWV 848&lt;br /&gt;
+	7. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=12m06s&quot; rel=&quot;nofollow&quot;&gt;12:06&lt;/a&gt; Prelude in C#-Minor BWV 849&lt;br /&gt;
+	8. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=15m04s&quot; rel=&quot;nofollow&quot;&gt;15:04&lt;/a&gt; Fugue in C#-Minor BWV 849&lt;br /&gt;
+	9. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=17m42s&quot; rel=&quot;nofollow&quot;&gt;17:42&lt;/a&gt; Prelude in D-Major BWV 850&lt;br /&gt;
+	10. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=19m16s&quot; rel=&quot;nofollow&quot;&gt;19:16&lt;/a&gt; Fugue in D-Major BWV 850&lt;br /&gt;
+	11. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=20m59s&quot; rel=&quot;nofollow&quot;&gt;20:59&lt;/a&gt; Prelude in D-Minor BWV 851&lt;br /&gt;
+	12. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=22m34s&quot; rel=&quot;nofollow&quot;&gt;22:34&lt;/a&gt; Fugue in D-Minor BWV 851&lt;br /&gt;
+	13. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=24m40s&quot; rel=&quot;nofollow&quot;&gt;24:40&lt;/a&gt; Prelude in Eb-Major BWV 852&lt;br /&gt;
+	14. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=28m00s&quot; rel=&quot;nofollow&quot;&gt;28:00&lt;/a&gt; Fugue in Eb-Major BWV 852&lt;br /&gt;
+	15. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=29m48s&quot; rel=&quot;nofollow&quot;&gt;29:48&lt;/a&gt; Prelude in Eb-Minor BWV 853&lt;br /&gt;
+	16. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=33m47s&quot; rel=&quot;nofollow&quot;&gt;33:47&lt;/a&gt; Fugue in D#-Minor BWV 853&lt;br /&gt;
+	17. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=37m33s&quot; rel=&quot;nofollow&quot;&gt;37:33&lt;/a&gt; Prelude in E-Major BWV 854&lt;br /&gt;
+	18. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=39m04s&quot; rel=&quot;nofollow&quot;&gt;39:04&lt;/a&gt; Fugue in E-Major BWV 854&lt;br /&gt;
+	19. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=40m23s&quot; rel=&quot;nofollow&quot;&gt;40:23&lt;/a&gt; Prelude in E-Minor BWV 855&lt;br /&gt;
+	20. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=42m29s&quot; rel=&quot;nofollow&quot;&gt;42:29&lt;/a&gt; Fugue in E-Minor BWV 855&lt;br /&gt;
+	21. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=44m02s&quot; rel=&quot;nofollow&quot;&gt;44:02&lt;/a&gt; Prelude in F-Major BWV 856&lt;br /&gt;
+	22. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=45m04s&quot; rel=&quot;nofollow&quot;&gt;45:04&lt;/a&gt; Fugue in F-Major BWV 856&lt;br /&gt;
+	23. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=46m28s&quot; rel=&quot;nofollow&quot;&gt;46:28&lt;/a&gt; Prelude in F-Minor BWV 857&lt;br /&gt;
+	24. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=49m20s&quot; rel=&quot;nofollow&quot;&gt;49:20&lt;/a&gt; Fugue in F-Minor BWV 857&lt;br /&gt;
+	Encore:&lt;br /&gt;
+	26. &lt;a class=&quot;ot-anchor&quot; href=&quot;http://www.youtube.com/watch?v=Zj6wMOySPYQ&amp;amp;t=54m34s&quot; rel=&quot;nofollow&quot;&gt;54:34&lt;/a&gt; Fugue in F#-Major BWV 858﻿&lt;/div&gt;
+&lt;p&gt;UPDATE: The new &lt;a href=&quot;http://www.welltemperedclavier.org&quot;&gt;Well-Tempered Clavier&lt;/a&gt; website is online, and in March 2015, that is where you will find Kimiko&#039;s recording of the entire Book One, made in the Teldex Studio, Berlin.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/kimiko-ishizaka&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Kimiko Ishizaka&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/music&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/js-bach&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;J.S. Bach&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 28 Nov 2013 13:17:44 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">271 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>Your turn: help blind musicians have music to read</title>
+ <link>http://www.robshouse.net/content/your-turn-help-blind-musicians-have-music-read</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Did you know that blind musicians are just as capable as sighted musicians? Of course you did! Stevie Wonder and Ray Charles made sure of that. But they didn&#039;t have to read music to achieve their success. Blind musians who need to read notes, to play Bach, Beethoven, or Mozart, need scores in braille format. Guess what? These scores don&#039;t exist in adequate numbers. Blind musicians give up on their ambitions to study, not because they can&#039;t play, but because the world hasn&#039;t provided them the scores they need to read. I consider this an outrage and a tragedy,&lt;a href=&quot;http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach&quot;&gt; and I propose we fix it&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;We can fix it by developing a technical solution that translates digital scores in standard formats into braille. Then blind musicans can read the music on devices that display braille. It&#039;s not science fiction, as you can see in &lt;a href=&quot;http://kck.st/braillewtc&quot;&gt;the video with Eunah Choi, a blind teacher from Korea who made me aware of this problem&lt;/a&gt;. But nothing is going to happen without some financial resource, which is why I want you, right now, to go and support our Kickstarter campaign by ordering a CD of the Well-Tempered Clavier, or a copy of the original artwork that we&#039;re commissioning (which will also be embossed in braille), or by dedicating one of Bach&#039;s glorious Preludes or Fugues to someone you love.&lt;/p&gt;
+&lt;p&gt;That&#039;s right, I&#039;m leaning on you to take action. In order to achieve great things, like enabling blind people to read music, you need your friends to jump in and help. &lt;a href=&quot;http://kck.st/openwtc&quot;&gt;Do that now, please&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;
+[[{&quot;type&quot;:&quot;media&quot;,&quot;view_mode&quot;:&quot;media_large&quot;,&quot;fid&quot;:&quot;201&quot;,&quot;attributes&quot;:{&quot;alt&quot;:&quot;&quot;,&quot;class&quot;:&quot;media-image&quot;,&quot;title&quot;:&quot;Help MuseScore radically increase the number of Braille scores available to blind people&quot;,&quot;typeof&quot;:&quot;foaf:Image&quot;}}]]
+&lt;/p&gt;
+&lt;p&gt;[[{&quot;type&quot;:&quot;media&quot;,&quot;view_mode&quot;:&quot;media_large&quot;,&quot;fid&quot;:&quot;206&quot;,&quot;attributes&quot;:{&quot;alt&quot;:&quot;&quot;,&quot;class&quot;:&quot;media-image&quot;,&quot;title&quot;:&quot;Eunah Choi, blind pianist, explains the need for Braille music scores&quot;,&quot;typeof&quot;:&quot;foaf:Image&quot;}}]]&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;360&quot; scrolling=&quot;no&quot; src=&quot;http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach/widget/video.html&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/music&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 09 Oct 2013 11:34:26 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">266 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>My contribution to the DrupalCon opening session</title>
+ <link>http://www.robshouse.net/content/my-contribution-drupalcon-opening-session</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I wasn&#039;t in Prague on the first day of DrupalCon, but that didn&#039;t stop me from contributing to the opening session. Here is the &quot;song&quot; that I &quot;sang&quot;, with all of the lyrics. Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;//www.youtube.com/embed/MkUI_euqeuk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;div&gt;My contribution to the DrupalCon, Prague, opening session.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;I am the very mo-del of a Dru-pa-list de-vel-o-per&lt;/div&gt;
+&lt;div&gt;I’ve pu-blished code, and had some beers with every core con-tri-butor&lt;/div&gt;
+&lt;div&gt;I know the seven function stack, I’ve got it in my memory&lt;/div&gt;
+&lt;div&gt;From al-tered forms to en-ti-ties, oh these are el-e-mentary!&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;I’m very well a-cquain-ted too, with da-ta-base ab-strac-ter-y&lt;/div&gt;
+&lt;div&gt;and all the boot strap sta-ges through, of that I have a mas-te-ry&lt;/div&gt;
+&lt;div&gt;Debug-ging is my mi-ddle name and o-o-p my favorite game&lt;/div&gt;
+&lt;div&gt;An object can in-stan-ti-ate from this here sta-tic fac-tor y !&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;For clear-ing cache I’ve got a trick, a &lt;/div&gt;
+&lt;div&gt;py-thon script that&#039;s really slick it&lt;/div&gt;
+&lt;div&gt;it-er-ates on foreign keys, &lt;/div&gt;
+&lt;div&gt;and JOINS them using P-H-P&lt;/div&gt;
+&lt;div&gt;While laun-ching sites I say out loud&lt;/div&gt;
+&lt;div&gt;Your code de-serves to see the cloud&lt;/div&gt;
+&lt;div&gt;Where sca-ling is co-mmod-i-ty&lt;/div&gt;
+&lt;div&gt;and ba-ckups come for al-most free&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;If selling&#039;s what you want to do &lt;/div&gt;
+&lt;div&gt;I have the best most modern clue&lt;/div&gt;
+&lt;div&gt;you kick-start sales and save time too&lt;/div&gt;
+&lt;div&gt;when co-mmerce is your sho-pping tool&lt;/div&gt;
+&lt;div&gt;And now you are at Dru-pal-Con&lt;/div&gt;
+&lt;div&gt;where code sprints form a ma-ra-thon&lt;/div&gt;
+&lt;div&gt;and A-cqui-a and Lull-a-bot and Co-mmerce Guys and Wun-der-kraut&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Are won-de-ring day in and out&lt;/div&gt;
+&lt;div&gt;what Dru-pal 8 is all about&lt;/div&gt;
+&lt;div&gt;Are won-de-ring day in and out&lt;/div&gt;
+&lt;div&gt;what Dru-pal 8 is all about &lt;/div&gt;
+&lt;div&gt;and A-cqui-a and Lull-a-bot and Co-mmerce Guys and Wun-der-kraut&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Are wondering day in and out&lt;/div&gt;
+&lt;div&gt;what Dru-pal 8 is all about &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;A web site needs some mo-du-als to get you lots of vi-si-tors&lt;/div&gt;
+&lt;div&gt;a task that Drush makes tri-vi-al but make sure you have sem-a-phores&lt;/div&gt;
+&lt;div&gt;And theming is a sim-ple task with C-S-S and Ja-va-script&lt;/div&gt;
+&lt;div&gt;but Eaton says you should not use  the en-ti-ty con-stru-ction kit&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Now if you want some firm advice you need not ask me even twice&lt;/div&gt;
+&lt;div&gt;I’ll offer it at half the price because I see you’re rather nice&lt;/div&gt;
+&lt;div&gt;A warning stems from ancient lore&lt;/div&gt;
+&lt;div&gt;That junior devs should not ignore&lt;/div&gt;
+&lt;div&gt;The wrath of Dries and much much more&lt;/div&gt;
+&lt;div&gt;befalls thee should you hack on core&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;I am the very mo-del of a Dru-pa-list de-vel-o-per&lt;/div&gt;
+&lt;div&gt;I’ve pu-blished code, and had some beers with every core con-tri-butor&lt;/div&gt;
+&lt;div&gt;I know the seven function stack, I’ve got it in my memory&lt;/div&gt;
+&lt;div&gt;From al-tered forms to en-ti-ties, oh these are el-e-mentary!&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 29 Sep 2013 13:48:49 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">261 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>Open Source Music - Video from the DrupalCon Session</title>
+ <link>http://www.robshouse.net/content/open-source-music-video-drupalcon-session</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &quot;Bach to the Future&quot; session at DrupalCon Prague was fun, and a success, I think. Together with my wife, pianist Kimiko Ishizaka, I presented the concept of open source music, showed how Drupal is enabling the MuseScore project to thrive and treat musical scores as semantic content, and gave a demonstration showing the cool things you can do with digital scores and live performances. Kimiko Ishizaka played a selection of pieces from the Well-Tempered Clavier on the venue&#039;s Steinway grand piano, and it was a lovely way to start the final day of DrupalCon.&lt;/p&gt;
+&lt;p&gt;Here&#039;s the video of the entire session, as well as a link to the related project - &lt;a href=&quot;http://kck.st/openwtc&quot; title=&quot;Link to the Kickstarter project, The Open Well-Tempered Clavier&quot;&gt;The Open Well-Tempered Clavier&lt;/a&gt; - which is our latest contribution to open source music. Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;300&quot; src=&quot;//www.youtube.com/embed/5vi04atyOSY&quot; width=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;!-- 506 x 380 --&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach/widget/video.html&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/drupal-planet&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/music&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 28 Sep 2013 20:14:59 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">256 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>The Open Well-Tempered Clavier: Bach for everybody</title>
+ <link>http://www.robshouse.net/content/open-well-tempered-clavier-bach-everybody</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I have come to love the music of J.S. Bach more than I thought would ever be possible. Every day when I listen to music, whether on iTunes, Spotify, or drawing from my CD collection, I am saddened that the one recording that I most desperately want to hear is not available to me. That&#039;s because it doesn&#039;t exist yet. The recording I so yearn for is Kimiko Ishizaka&#039;s recording of the Well-Tempered Clavier. She has found a level of profound beauty in these 48 pieces that is breathtaking. I can hardly wait for the world to hear it. Please support us in making that a reality by &lt;a href=&quot;http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach&quot;&gt;backing our Kickstarter project&lt;/a&gt;. Thank you!&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;480&quot; src=&quot;http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach/widget/video.html&quot; width=&quot;640&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;!--break--&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/music&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 21 Sep 2013 20:55:44 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">251 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>New DVD Trailer: The Fractal Zone</title>
+ <link>http://www.robshouse.net/content/new-dvd-trailer-fractal-zone</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Landscape Windscreen has released a second trailer for the &quot;Project Goldberg: A Fractal Journey&quot; DVD. There&#039;s still time to &lt;a href=&quot;http://kck.st/12tones&quot;&gt;back the project on Kickstarter and order your DVD or HD download&lt;/a&gt; of the video. Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;480&quot; src=&quot;//www.youtube.com/embed/s4A4cO1lRIE&quot; width=&quot;640&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/music&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/kickstarter&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Kickstarter&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 16 Aug 2013 22:30:28 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">246 at http://www.robshouse.net</guid>
+</item>
+<item>
+ <title>Last weekend I took Kimiko Ishizaka to the greatest geek event I&#039;ve ever been to</title>
+ <link>http://www.robshouse.net/content/last-weekend-i-took-kimiko-ishizaka-greatest-geek-event-ive-ever-been</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;Observe. Hack. Make. That was the name of &lt;a href=&quot;https://ohm2013.org/site/&quot;&gt;the event that drew over 3,000 people to a pasture in northern Holland&lt;/a&gt; last week. Every attendee is considered a volunteer, and the atmosphere of cooperation and collaboration is palpable and refreshing. So was the utter concern with the state of privacy, freedom of speech, human rights, and the future of the internet. The conference started off with an address - delivered remotely - by Wikileaks founder Julian Assange, and it just got better after that. Here&#039;s a selection of some of my favorite titles. I wish I could have attended them all:&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;Lockpicking, a primer&lt;/li&gt;
+&lt;li&gt;Introducing Biohacking&lt;/li&gt;
+&lt;li&gt;How To Build A Trading Robot With Open Source Tools&lt;/li&gt;
+&lt;li&gt;How to legalize drugs using only 13 years and 10 million US$&lt;/li&gt;
+&lt;li&gt;Molecular cooking&lt;/li&gt;
+&lt;li&gt;3D printing and Metal Casting&lt;/li&gt;
+&lt;li&gt;Drupal Commerce and the Bachkoor Holland&lt;/li&gt;
+&lt;li&gt;Finance and The Future Beyond Bitcoin&lt;/li&gt;
+&lt;li&gt;Reports from the Frontlines: The Digital War on Civil Society&lt;/li&gt;
+&lt;li&gt;Tempo/Rhythm Detection and Musical Nearest Neighbors&lt;/li&gt;
+&lt;li&gt;9 Billion People: an engineering consideration of climate, poverty and justice&lt;/li&gt;
+&lt;li&gt;Open Source Food&lt;/li&gt;
+&lt;li&gt;Modeling and Control of Rotary Winged Unmanned Aerial Vehicles&lt;/li&gt;
+&lt;li&gt;New Human Interfaces for Music&lt;/li&gt;
+&lt;li&gt;Decoding memory dumps of mobile phones and navigation systems (workshop)&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;After four full days of such programming, the attendees were ready for some pure geek entertainment, and that&#039;s where &lt;a href=&quot;http://kimiko-piano.com&quot;&gt;Kimiko Ishizaka, the Open Goldberg Pianist&lt;/a&gt;, came in. The organizers had carefully planned the final concert in the main tent, including having a forklift ready to haul a concert grand piano from the nearest road to the main tent in tent in the middle of the field (imagine a space the size of a small city filled with tents - big ones for the events and individual tents for the people who camped out for four days to attend). With a full crew of volunteer camera, light, and audio technicians on hand, Kimiko played over an hour of Bach and Chopin for nearly 2,000 very enthusiastic hackers. The mood in the tent was electric, with everyone paying rapt attention to the performance, and encouraging Kimiko with multiple standing ovations and hearty cheering. In the video of the performance you can start to hear the shapes and lines of Kimiko&#039;s Well-Tempered Clavier, and sense what a fantastic recording of the piece she&#039;s going make in 2014. You also get to hear her first ever performance of all 12 Chopin Études op. 10. One particularly magical moment happened when Kimiko finishes the last Bach piece, the Fugue in Eb Minor, and goes straight into a Chopin Prelude, also in Eb Minor. She planned this transition, purposely grouping them together, and the effect is striking.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;OHM2013 also coincided with &lt;a href=&quot;http://kck.st/12tones&quot;&gt;the announcement of Kimiko&#039;s &quot;Twelve Tones of Bach&quot; tour, and her ongoing Kickstarter campaign to support the tour&lt;/a&gt;. The recording was done under a Creative Commons license in the spirit of Open Source Bach. Many many thanks to Hans de Raad, Paul Krischer, Walter van Holst, Nancy Beers, &lt;a href=&quot;http://connect2multimedia.nl&quot;&gt;Etienne Heemskerk&lt;/a&gt;, and the many others who made this event possible.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;[[{&quot;type&quot;:&quot;media&quot;,&quot;view_mode&quot;:&quot;media_large&quot;,&quot;fid&quot;:&quot;191&quot;,&quot;attributes&quot;:{&quot;alt&quot;:&quot;&quot;,&quot;class&quot;:&quot;media-image&quot;,&quot;typeof&quot;:&quot;foaf:Image&quot;}}]]&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;[[{&quot;type&quot;:&quot;media&quot;,&quot;view_mode&quot;:&quot;media_crop&quot;,&quot;fid&quot;:&quot;181&quot;,&quot;attributes&quot;:{&quot;alt&quot;:&quot;&quot;,&quot;class&quot;:&quot;media-image&quot;,&quot;id&quot;:&quot;media_crop_4904069006443&quot;,&quot;media_crop_h&quot;:&quot;0&quot;,&quot;media_crop_image_style&quot;:&quot;large&quot;,&quot;media_crop_instance&quot;:&quot;76&quot;,&quot;media_crop_rotate&quot;:&quot;0&quot;,&quot;media_crop_scale_h&quot;:&quot;0&quot;,&quot;media_crop_scale_w&quot;:&quot;0&quot;,&quot;media_crop_w&quot;:&quot;0&quot;,&quot;media_crop_x&quot;:&quot;0&quot;,&quot;media_crop_y&quot;:&quot;0&quot;,&quot;typeof&quot;:&quot;foaf:Image&quot;}}]]&lt;/div&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;2,000 people &lt;a href=&quot;https://twitter.com/ohm2013&quot;&gt;@ohm2013&lt;/a&gt; totally silenced by Kimiko Ishizaka playing Bach and Chopin. Beautiful festival, great people. &lt;a href=&quot;http://t.co/Pfxij6r2Wy&quot;&gt;pic.twitter.com/Pfxij6r2Wy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	— Silkie Carlo (@silkiecarlo) &lt;a href=&quot;https://twitter.com/silkiecarlo/statuses/363724124482322433&quot;&gt;August 3, 2013&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23ohm2013&amp;amp;src=hash&quot;&gt;#ohm2013&lt;/a&gt; closing ceremony: 1536 geeks, Kimiko Ishizaka and her grand piano &lt;a href=&quot;http://t.co/vPU6SqRRQY&quot;&gt;pic.twitter.com/vPU6SqRRQY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	— Joakim Lundborg (@joakimlundborg) &lt;a href=&quot;https://twitter.com/joakimlundborg/statuses/363726620210655232&quot;&gt;August 3, 2013&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Kimiko Ishizaka&#039;s live concert at &lt;a href=&quot;https://twitter.com/search?q=%23OHM2013&amp;amp;src=hash&quot;&gt;#OHM2013&lt;/a&gt;, excellent performance, standing ovation. Bach &amp;amp; Chopin. &lt;a href=&quot;https://twitter.com/KimikoIshizaka&quot;&gt;@KimikoIshizaka&lt;/a&gt; &lt;a href=&quot;http://t.co/liKUXibzA0&quot;&gt;pic.twitter.com/liKUXibzA0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	— Aschwin Marsman (@aschwinmarsman) &lt;a href=&quot;https://twitter.com/aschwinmarsman/statuses/363734253982343168&quot;&gt;August 3, 2013&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/ohm2013&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;OHM2013&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/kimiko-ishizaka&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Kimiko Ishizaka&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/music&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 10 Aug 2013 20:29:21 +0000</pubDate>
+ <dc:creator>robertDouglass</dc:creator>
+ <guid isPermaLink="false">241 at http://www.robshouse.net</guid>
+</item>
+</channel>
+</rss>
